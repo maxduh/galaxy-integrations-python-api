@@ -48,6 +48,8 @@ Platform ID list for GOG Galaxy 2.0 Integrations
 | saturn	| SegaSaturn |
 | psx	| Sony PlayStation |
 | ps2	| Sony PlayStation 2 |
+| ps3	| Sony PlayStation 3 |
+| ps4	| Sony PlayStation 4 |
 | n64	| Nintendo64 |
 | jaguar	| Atari Jaguar |
 | dc	| Sega Dreamcast |
@@ -80,3 +82,6 @@ Platform ID list for GOG Galaxy 2.0 Integrations
 | nds	| Nintendo DS |
 | 3ds	| Nintendo 3DS |
 | pathofexile | Path of Exile |
+| vb | Virtual Boy |
+| ngameboyc	| Nintendo Game Boy Color |
+| ngameboya	| Nintendo Game Boy Advance |
